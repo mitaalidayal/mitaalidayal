@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  Building AI workflows, experimenting with ML, and occasionally fighting Docker at 2 AM.
-  <br/>
-  Teaching machines to work smarter while I try to do the same.
+  🤖 Building AI workflows & ML experiments <br/>
+  ⚡ Teaching machines to work smarter while I try to do the same <br/>
+  💤 Occasionally fighting Docker at 2 AM
 </p>
 
 ---
