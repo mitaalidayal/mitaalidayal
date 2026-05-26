@@ -17,15 +17,15 @@
 
 ## ✨ Featured Projects
 
-### 🌫 Houston AQI Predictor
-Predicting Houston's next-day air quality using ML, weather signals, and trend-based features.
+<p align="center">
+  <a href="https://github.com/mitaalidayal/houston-aqi-predictor">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=mitaalidayal&repo=houston-aqi-predictor&theme=tokyonight&hide_border=true" />
+  </a>
 
-<br/>
-
-### 🤖 AI Job Radar
-Automating AI job discovery using n8n workflows, GPT-based filtering, and resume scoring.
-
-<br/>
+  <a href="https://github.com/mitaalidayal/ai-job-radar">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=mitaalidayal&repo=ai-job-radar&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ## 🌱 Learning in Public
 
