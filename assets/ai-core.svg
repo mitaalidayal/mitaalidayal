@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="140" viewBox="0 0 140 140">
+  <defs>
+    <radialGradient id="core" cx="50%" cy="50%">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="60%" stop-color="#4c1d95"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </radialGradient>
+  </defs>
+  <g style="transform-origin: 70px 70px; animation: spin 20s linear infinite;">
+    <circle cx="70" cy="70" r="62" fill="none" stroke="#1f2937" stroke-width="1" stroke-dasharray="3 4"/>
+    <circle cx="70" cy="70" r="48" fill="none" stroke="#4c1d95" stroke-width="0.8" opacity="0.6"/>
+    <circle cx="70" cy="70" r="32" fill="none" stroke="#0891b2" stroke-width="0.8" opacity="0.7"/>
+    <circle cx="70" cy="8" r="3" fill="#a78bfa"/>
+    <circle cx="132" cy="70" r="2.5" fill="#67e8f9"/>
+    <circle cx="70" cy="132" r="2" fill="#f9a8d4"/>
+    <circle cx="22" cy="38" r="2" fill="#67e8f9" opacity="0.7"/>
+    <circle cx="118" cy="38" r="2" fill="#a78bfa" opacity="0.7"/>
+  </g>
+  <circle cx="70" cy="70" r="18" fill="url(#core)"/>
+  <text x="70" y="74" text-anchor="middle" fill="#f3f4f6" font-size="9" font-family="ui-monospace, monospace" font-weight="500">AI</text>
+  <style>@keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }</style>
+</svg>
