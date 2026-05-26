@@ -6,37 +6,51 @@
 
 <br/>
 
-## ⚡ Currently Building
+## ⚡ What I'm Building
 
 - 🌫 Houston AQI Predictor  
-- 🤖 AI Job Radar Workflow  
-- 🧠 SQL + Python problem solving  
-- ⚡ Exploring agentic AI workflows  
+- 🤖 AI-powered job discovery workflows  
+- 🧠 RAG systems & prompt engineering  
+- ⚡ AI automation experiments using n8n  
+
+<br/>
+
+## 💼 Experience Journey
+
+```text
+Data Analyst → Data Strategist → AI Engineering
+```
+
+📍 Built analytics dashboards and automation tools across healthcare, operations, and AI systems.
+
+📍 Worked on:
+- RAG pipelines
+- vector database ingestion
+- workflow automation
+- prompt engineering
+- internal AI tools
+- ML experiments
+
+📍 Currently exploring how AI systems can become more reliable, useful, and production-ready.
+
+<br/>
+
+## 🛠 Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,docker,git,github,aws,azure,javascript" />
+</p>
+
+<p align="center">
+  AI/ML • RAG • LangChain • n8n • Streamlit • Prompt Engineering • Tableau • Power BI
+</p>
 
 <br/>
 
 ## ✨ Featured Projects
 
-<p align="center">
-  <a href="https://github.com/mitaalidayal/houston-aqi-predictor">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=mitaalidayal&repo=houston-aqi-predictor&theme=tokyonight&hide_border=true" />
-  </a>
+### 🌫 Houston AQI Predictor
+Predicting Houston's next-day air quality using ML, weather signals, and trend-based features.
 
-  <a href="https://github.com/mitaalidayal/ai-job-radar">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=mitaalidayal&repo=ai-job-radar&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-## 🌱 Learning in Public
-
-Currently exploring:
-- Machine Learning fundamentals  
-- AI automation systems  
-- Product-focused development  
-- Workflow orchestration using n8n  
-
-<br/>
-
-## 🛠 Tech Stack
-
-Python • SQL • Streamlit • n8n • Git • JavaScript • Scikit-learn
+### 🤖 AI Job Radar
+Automating AI job discovery using n8n workflows, GPT-based filtering, and resume scoring.
